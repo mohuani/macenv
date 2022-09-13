@@ -101,3 +101,5 @@ export_presets.cfg
 .mono/
 data_*/
 
+/.idea/macenv.iml
+/.idea/vcs.xml
